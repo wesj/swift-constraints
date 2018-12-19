@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C150D0D521C35414009AED80 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C150D0D421C35414009AED80 /* AppDelegate.swift */; };
-		C150D0D721C35414009AED80 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C150D0D621C35414009AED80 /* ViewController.swift */; };
+		C150D0D721C35414009AED80 /* MyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C150D0D621C35414009AED80 /* MyViewController.swift */; };
 		C150D0DA21C35414009AED80 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C150D0D821C35414009AED80 /* Main.storyboard */; };
 		C150D0DD21C35414009AED80 /* ConstraintsGame.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C150D0DB21C35414009AED80 /* ConstraintsGame.xcdatamodeld */; };
 		C150D0DF21C35414009AED80 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C150D0DE21C35414009AED80 /* Assets.xcassets */; };
@@ -37,7 +37,7 @@
 /* Begin PBXFileReference section */
 		C150D0D121C35414009AED80 /* ConstraintsGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConstraintsGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C150D0D421C35414009AED80 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C150D0D621C35414009AED80 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C150D0D621C35414009AED80 /* MyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewController.swift; sourceTree = "<group>"; };
 		C150D0D921C35414009AED80 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C150D0DC21C35414009AED80 /* ConstraintsGame.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ConstraintsGame.xcdatamodel; sourceTree = "<group>"; };
 		C150D0DE21C35414009AED80 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,7 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				C150D0D421C35414009AED80 /* AppDelegate.swift */,
-				C150D0D621C35414009AED80 /* ViewController.swift */,
+				C150D0D621C35414009AED80 /* MyViewController.swift */,
 				C150D0D821C35414009AED80 /* Main.storyboard */,
 				C150D0DE21C35414009AED80 /* Assets.xcassets */,
 				C150D0E021C35414009AED80 /* LaunchScreen.storyboard */,
@@ -262,7 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C150D0D721C35414009AED80 /* ViewController.swift in Sources */,
+				C150D0D721C35414009AED80 /* MyViewController.swift in Sources */,
 				C150D0D521C35414009AED80 /* AppDelegate.swift in Sources */,
 				C150D0DD21C35414009AED80 /* ConstraintsGame.xcdatamodeld in Sources */,
 			);
